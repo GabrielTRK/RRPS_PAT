@@ -1,7 +1,7 @@
 /*if (!sessionStorage.getItem("logged")) {
     window.location.href = "login.html"
 }*/
-
+window.location.href = "http://138.4.92.155:8081/html/details.html"
 if ((sessionStorage.getItem("projectName") && sessionStorage.getItem("ejecutando") == 1 && !sessionStorage.getItem("solutionID")) || 
 (sessionStorage.getItem("projectName") && sessionStorage.getItem("solutionID"))) {
     var html_p_Open = '<p>'

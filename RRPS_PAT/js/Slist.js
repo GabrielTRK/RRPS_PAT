@@ -1,6 +1,7 @@
 /*if (!sessionStorage.getItem("logged")) {
     window.location.href = "login.html"
 }*/
+window.location.href = "http://138.4.92.155:8081/html/Slist.html"
 datosGlobal = null
 if (sessionStorage.getItem("projectName")) {
     $(document).ready(function () {

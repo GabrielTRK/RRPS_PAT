@@ -2,7 +2,7 @@
     window.location.href = "login.html"
 }*/
 
-
+window.location.href = "http://138.4.92.155:8081/html/description.html"
 $(document).ready(function () {
     $('[data-toggle="tooltip"]').tooltip();
 });
